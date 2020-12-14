@@ -11,6 +11,8 @@ right now i don't have a lot of interesting things to write about, but i am addi
 
 - [Email](https://spamty.eu/show/v6/485/c24f77bd76d70ab47fe02a04/)  
 - [PGP public key](pgp-public-key.txt)    
+- xmpp/jabber: willowashmaple @_noname.rs_  
+- mastodon/friendica/pleroma: @thewillowness @_social.theliturgists.com_  
 
  
 

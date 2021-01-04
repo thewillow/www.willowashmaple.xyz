@@ -1,5 +1,5 @@
 @import url("https://fontlibrary.org/face/avrile-sans-ui");
-@import url("https://fontlibrary.org/face/journal-74");
+@import url("https://fontlibrary.org/face/maya");
 
 html, body {
   height:100%;
@@ -17,7 +17,7 @@ div {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Journal74Regular',serif;
+  font-family: 'MayaRegular','Droid Serif',serif;
 }
 
 a {

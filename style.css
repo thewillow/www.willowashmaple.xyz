@@ -1,9 +1,19 @@
-@import url("https://fontlibrary.org/face/avrile-sans-ui");
-@import url("https://fontlibrary.org/face/maya");
+@font-face{
+	font-family: 'Aileron Regular';
+	src: url('https://www.willowashmaple.xyz/typography/aileron_regular_macroman/Aileron-Regular-webfont.woff') format('woff');
+}
+@font-face{
+	font-family: 'Aileron Italic';
+	src: url('https://www.willowashmaple.xyz/typography/aileron_italic_macroman/Aileron-Italic-webfont.woff') format('woff');
+}
+@font-face{
+	font-family: 'Aileron Bold';
+	src: url('https://www.willowashmaple.xyz/typography/aileron_bold_macroman/Aileron-Bold-webfont.woff') format('woff');
+}
 
 html, body {
   height:100%;
-  font-family: 'AvrileSansUIRegular','Droid Sans','Droid Sans Fallback',sans-serif;
+  font-family: 'Aileron Regular','Droid Sans','Droid Sans Fallback',sans-serif;
   font-size: 1.1em;
   color: #151515;
 }
@@ -18,7 +28,7 @@ div {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'MayaRegular','Droid Serif',serif;
+  font-family: 'Aileron Bold','Droid Serif',serif;
 }
 
 a {
